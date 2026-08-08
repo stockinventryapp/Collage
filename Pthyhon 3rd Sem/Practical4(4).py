@@ -1,11 +1,12 @@
 # Practical 4.4 : Write a Python program to define a function that calculates compound interest using parameters and return values.
 
 def factorial(n) :
-    answer = 1
-    while n > 0 :
-        answer *= n
-        n -= 1
-    print("The factorial is", answer)
+    if n < 0 :
+        print("Enter a non-negative number!!")
+    elif n == 0 :
+        return 1
+    else :
+        return n * factorial(n - 1)
 
 num = int(input("Enter a number: "))
-factorial(num)
+print("The factorial is:", factorial(num))

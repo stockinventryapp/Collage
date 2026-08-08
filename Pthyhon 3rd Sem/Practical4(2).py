@@ -1,5 +1,4 @@
-# Practical 4.2 : Write a Python program to define a function that calculates simple interest using
-# parameters and return values.
+# Practical 4.2 : Write a Python program to define a function that calculates simple interest using parameters and return values.
 
 def simple_interest(p, r, t):
    
