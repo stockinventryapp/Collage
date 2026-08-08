@@ -2,8 +2,8 @@
 # parameters and return values.
 
 def simple_interest(p, r, t):
-    si = (p * r * t) / 100
-    return si
+   
+    return (p * r * t) / 100
 
 p = float(input("Enter the principal amount: "))
 r = float(input("Enter the rate of interest: "))
