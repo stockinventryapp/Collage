@@ -1,5 +1,4 @@
-# Practical 2.2 : Write a Python program to find the largest of three numbers entered by the user using
-# nested if–else statements.
+# Practical 2.2 : Write a Python program to find the largest of three numbers entered by the user using nested if–else statements.
 
 num1 = float(input("Enter the First Number :  "))
 num2 = float(input("Enter the Second Number :  "))

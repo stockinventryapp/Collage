@@ -1,5 +1,4 @@
-# Practical 3.1 : Write a Python program to generate the Fibonacci series up to n terms entered by the
-# user.
+# Practical 3.1 : Write a Python program to generate the Fibonacci series up to n terms entered by the user.
 c = int(input("Enter the number of terms : "))
 a = 0
 b = 1

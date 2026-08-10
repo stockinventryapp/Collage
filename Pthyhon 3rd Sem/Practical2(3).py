@@ -1,5 +1,4 @@
-# Practical 2.3 : Write a Python program to calculate the grade of a student based on marks entered by
-# the user.
+# Practical 2.3 : Write a Python program to calculate the grade of a student based on marks entered by the user.
 
 marks = int(input("Enter your marks : "))
 
